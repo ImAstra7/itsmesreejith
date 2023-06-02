@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @itsmesreejith
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently studying in computer enginnering at Polytecnic College Chelakkaara 
-- 📫 How to reach me 	[Insta](https://www.instagram.com/thesreejithc/)
--------
+- 📫 How to reach me 	[@Instagram](https://www.instagram.com/thesreejithc/)
+
 
 
 <!---
