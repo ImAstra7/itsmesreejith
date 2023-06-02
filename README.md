@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sreejith
+- 👋**Hi, I’m Sreejith**
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning penetration testing and redteaming 
 - 📫 How to reach me 	[@Instagram](https://www.instagram.com/thesreejithc/)
